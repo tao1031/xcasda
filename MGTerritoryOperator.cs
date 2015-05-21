@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using MGCTerritoryTypeDef;
 using LitJson;
 
-
+test
 public partial class MGTerritoryOperator : MonoBehaviour {	
 	private enum BuildingEnum : int
 	{
